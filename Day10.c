@@ -26,6 +26,7 @@ int main(void) {
        
     }
     
+    
     if(s==a)
     {
         printf("%d and %d are Amicable numbers",a,b);
